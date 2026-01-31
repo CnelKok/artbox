@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /404.html
 Disallow: /profile.html
+
+Sitemap: https://cnelkok.github.io/artbox/sitemap.xml
